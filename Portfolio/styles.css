@@ -1,0 +1,19 @@
+/* Element selectors */
+p {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+/* Class selector */
+.about-list-item {
+    font-style: italic;
+}
+
+/* ID selector */
+#my-name {
+    color: blue;
+}
+
